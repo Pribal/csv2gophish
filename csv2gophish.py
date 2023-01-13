@@ -21,7 +21,7 @@ match(bool_header):
         bool_header = False
 
 
-indexes = input("Indexes of the colums (order: First Name, Last Name, Position, Email)(separate with ,): ").split(",")
+indexes = input("Indexes of the columns (order: First Name, Last Name, Position, Email)(separate with ,): ").split(",")
 
 final_file_name = input("Name of the created file: ")
 final_file_name = check_extension(final_file_name, "csv")
