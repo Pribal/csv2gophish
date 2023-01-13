@@ -1,8 +1,8 @@
 # csv2gophish
 
-csv2gophish is a python tool to create a csv file from another to match csv format of gophish.
+csv2gophish is a python tool to create a csv file from another to match csv format of gophish group import.
 
-It will created the file in the same directory where you launched the program.
+It will create the file in the same directory where you launched the program.
 
 PS: no need to write extension for your files names.
 
